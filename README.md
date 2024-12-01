@@ -1,12 +1,12 @@
 # Data Exploration Tutorial
 
-Overview
+## Overview
 
 Welcome to this tutorial designed for beginners who want to learn data exploration using Python libraries such as Seaborn, Pandas, and Matplotlib. This guide will help you get comfortable with essential data analysis techniques and provide hands-on examples to start your journey in data exploration.
 
-Datasets Used
+## Datasets Used
 
-1. Wine Quality Dataset
+### 1. Wine Quality Dataset
 
 Description: The wine-quality.csv is a supervised dataset containing data about different wine samples and their quality ratings.
 
@@ -16,7 +16,7 @@ Content: This file includes important details like column names, data separators
 
 Recommendation: It is highly advised to read the wine-quality.names file to fully understand the structure and content of the dataset.
 
-2. Iris Dataset
+### 2. Iris Dataset
 
 Description: The Iris dataset is a classic dataset often used to teach basic machine learning algorithms and data exploration.
 
@@ -26,7 +26,7 @@ Recommendation: Review the .names file for crucial information that can help you
 
 How to Use This Tutorial
 
-Notebooks and Code
+## Notebooks and Code
 
 Each Jupyter Notebook is well-commented to provide clear instructions and explanations.
 
@@ -40,7 +40,7 @@ Read the Comments: Go through the explanations in each section to understand the
 
 Experiment: Feel free to modify the code and run your own analysis to see how different parameters and techniques affect the results.
 
-Prerequisites
+ ## Prerequisites
 
 Ensure that you have the following libraries installed:
 
